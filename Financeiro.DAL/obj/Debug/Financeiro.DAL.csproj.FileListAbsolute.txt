@@ -1,0 +1,29 @@
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\bin\Debug\Financeiro.DAL.dll.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\bin\Debug\Financeiro.DAL.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\bin\Debug\Financeiro.DAL.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.Migrations.InitialCreate.resources
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.csproj.GenerateResource.Cache
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.Migrations.web01.resources
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.Migrations.bankidentity.resources
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.Migrations.accountownershipchange.resources
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.Migrations.accountownershipchange02.resources
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.Migrations.accountownershipchange03.resources
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\bin\Debug\Financeiro.DAL.dll.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\bin\Debug\Financeiro.DAL.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\bin\Debug\Financeiro.DAL.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.csprojResolveAssemblyReference.cache
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.Migrations.Initial.resources
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.DAL\obj\Debug\Financeiro.DAL.csproj.GenerateResource.Cache

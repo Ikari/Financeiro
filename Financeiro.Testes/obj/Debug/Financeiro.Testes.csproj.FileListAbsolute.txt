@@ -1,0 +1,209 @@
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\ApplicationInsights.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csc.exe
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csc.exe.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csc.rsp
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csi.exe
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csi.rsp
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\vbc.exe
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\vbc.exe.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\vbc.rsp
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Helpers.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Mvc.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Razor.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Optimization.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Owin.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\EntityFramework.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.dll.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Helpers.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Mvc.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Razor.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Optimization.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\EntityFramework.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Http.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.Owin.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Optimization.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.Owin.Security.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\obj\Debug\Financeiro.Testes.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\obj\Debug\Financeiro.Testes.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\obj\Debug\Financeiro.Testes.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\AutoMapper.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.BLL.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.DAL.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\AutoMapper.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.BLL.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.BLL.dll.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.DAL.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.DAL.dll.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\ApplicationInsights.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csc.exe
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csc.exe.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csc.rsp
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csi.exe
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\csi.rsp
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\vbc.exe
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\vbc.exe.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\vbc.rsp
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Helpers.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Mvc.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Razor.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Optimization.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Owin.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\AutoMapper.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\EntityFramework.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.BLL.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.DAL.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Helpers.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Mvc.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Razor.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Optimization.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\AutoMapper.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\EntityFramework.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.BLL.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.DAL.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Http.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.Owin.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\System.Web.Optimization.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.Owin.Security.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\bin\Debug\pt-br\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\obj\Debug\Financeiro.Testes.csprojResolveAssemblyReference.cache
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\obj\Debug\Financeiro.Testes.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.Testes\obj\Debug\Financeiro.Testes.pdb

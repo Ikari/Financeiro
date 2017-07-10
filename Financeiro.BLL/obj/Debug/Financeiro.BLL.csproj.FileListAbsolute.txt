@@ -1,0 +1,25 @@
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.BLL.dll.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.BLL.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.BLL.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.DAL.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.DAL.pdb
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.DAL.dll.config
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\obj\Debug\Financeiro.BLL.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\obj\Debug\Financeiro.BLL.dll
+C:\Users\5A_PC1\Roger\Projetos\Financeiro\Financeiro.BLL\obj\Debug\Financeiro.BLL.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.BLL.dll.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.BLL.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.BLL.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.DAL.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\Financeiro.DAL.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\obj\Debug\Financeiro.BLL.csprojResolveAssemblyReference.cache
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\obj\Debug\Financeiro.BLL.dll
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\Financeiro\Financeiro.BLL\obj\Debug\Financeiro.BLL.pdb

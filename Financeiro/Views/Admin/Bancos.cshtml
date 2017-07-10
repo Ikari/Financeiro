@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Financeiro.Models.Admin.Bank>
+
+@{
+    ViewBag.Title = "Bancos";
+}
+
+<h2>Bancos</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CriarBanco")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BankName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BankNumber)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BankName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BankNumber)
+        </td>
+        <td>
+            @Html.ActionLink("Alterar", "EditarBanco", new { id=item.BankId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.BankId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.BankId })
+        </td>
+    </tr>
+}
+
+</table>
