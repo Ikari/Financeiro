@@ -5,7 +5,7 @@ namespace Financeiro.DAL
     public class Account
     {
         public int AccountId { get; set; }
-        public virtual AccountOwner Owner { get; set; }
+        public virtual User Owner { get; set; }
         public int BankId { get; set; }
         public virtual Bank Bank { get; set; }
         public bool AccountActivity { get; set; }

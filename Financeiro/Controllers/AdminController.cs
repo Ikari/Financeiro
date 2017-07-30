@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Web.Mvc;
+using System.Linq;
+using System;
 
 namespace Financeiro.Controllers
 {
@@ -54,12 +56,49 @@ namespace Financeiro.Controllers
 
         #endregion
 
-        #region -> Account <-
+        #region -> Contas <-
 
-        public ActionResult Conta(int userId)
+        public ActionResult Contas()
         {
-            var model = AutoMapper.Mapper.Map<IList<DAL.User>, IList<Models.Admin.User>>(new BLL.User().GetUsers());
+            var model = AutoMapper.Mapper.Map<IList<DAL.Account>, IList<Models.Admin.Account>>(new BLL.Account().GetAccounts());
             return View(model);
+        }
+
+        public ActionResult CriarConta()
+        {;
+            var model = new Models.Admin.Account(
+                    new BLL.User().GetUsers().Select(u => new SelectListItem { Text = u.UserName, Value = Convert.ToString(u.UserId) }).ToList(),
+                    new BLL.Bank().GetBanks().Select(b => new SelectListItem { Text = b.BankName, Value = Convert.ToString(b.BankId) }).ToList()
+                );
+            return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult CriarConta(Models.Admin.Account conta)
+        {
+            if (!ModelState.IsValid)
+                return View(conta);
+
+            new BLL.Account().Save(null, conta.BankId, conta.OwnerId);
+
+            return View(conta);
+        }
+
+        public ActionResult EditarConta(int id)
+        {
+            var model = AutoMapper.Mapper.Map<DAL.Account, Models.Admin.Account>(new BLL.Account().GetById(id));
+            return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult EditarConta(Models.Admin.Account conta)
+        {
+            if (!ModelState.IsValid)
+                return View(conta);
+
+            new BLL.Account().Save(conta.AccountId, conta.BankId, conta.OwnerId);
+
+            return View(conta);
         }
 
         #endregion

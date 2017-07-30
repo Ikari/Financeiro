@@ -250,12 +250,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707091506073_new-machine.cs" />
-    <Compile Include="Migrations\201707091506073_new-machine.Designer.cs">
-      <DependentUpon>201707091506073_new-machine.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Admin\Account.cs" />
     <Compile Include="Models\Admin\Bank.cs" />
     <Compile Include="Models\Admin\User.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -359,6 +355,9 @@
     <Content Include="Views\Admin\EditarBanco.cshtml" />
     <Content Include="Views\Admin\CriarBanco.cshtml" />
     <Content Include="Views\Admin\CriarUsuario.cshtml" />
+    <Content Include="Views\Admin\Contas.cshtml" />
+    <Content Include="Views\Admin\EditarConta.cshtml" />
+    <Content Include="Views\Admin\CriarConta.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -387,11 +386,6 @@
       <Project>{7d55d8f6-bd02-465b-900c-27313e3d6ad4}</Project>
       <Name>Financeiro.DAL</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201707091506073_new-machine.resx">
-      <DependentUpon>201707091506073_new-machine.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
